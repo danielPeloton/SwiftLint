@@ -206,6 +206,7 @@ public let builtInRules: [Rule.Type] = [
     UnavailableConditionRule.self,
     UnavailableFunctionRule.self,
     UnhandledThrowingTaskRule.self,
+    UIImageIncludesBundleRule.self,
     UnneededBreakInSwitchRule.self,
     UnneededOverrideRule.self,
     UnneededParenthesesInClosureArgumentRule.self,
